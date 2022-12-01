@@ -1,0 +1,8 @@
+.idea/
+*.o
+*.exe
+file.cpp
+input.txt
+output.txt
+inputf.in
+outputf.in
