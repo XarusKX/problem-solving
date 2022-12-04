@@ -5,7 +5,7 @@ Source code for solved programming problems.
 
 Mental sport, nothing serious.
 
-## Note
+## References
 | Description                                                             | Link                                                                                                                   |
 |-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Significance of `ios_base::sync_with_stdio(false)` and `cie.tie(NULL)`. | [StackOverflow](https://stackoverflow.com/questions/31162367/significance-of-ios-basesync-with-stdiofalse-cin-tienull) |
@@ -14,6 +14,11 @@ Mental sport, nothing serious.
 | Unordered Set                                                           | [GeeksForGeeks](https://www.geeksforgeeks.org/unordered_set-in-cpp-stl/)                                               |
 
 ## Log
+04-12-2022: Solved CF268A, CF581A, CF732A, CF1352A, PE3.
+
+03-12-2022: Solved PE2.
+
+01-12-2022: Solved PE1.
 
 21-02-2022
 - **[Codeforces Session #15](https://codeforces.com)**. Solve 427A, 1399A, 1409A.
