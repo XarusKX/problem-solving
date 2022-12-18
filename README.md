@@ -14,6 +14,10 @@ Mental sport, nothing serious.
 | Unordered Set                                                           | [GeeksForGeeks](https://www.geeksforgeeks.org/unordered_set-in-cpp-stl/)                                               |
 
 ## Logs
+**18-12-2022**: Submitted A and B from Codeforces Round #839 (Div. 3).
+
+**17-12-2022**: Solved CF381A, 758A.
+
 ***11-12-2022***: Solved CF151A, CF427A, CF723A, CF1154A, CF1367A. Solved 2 HR Python Basic Data Types challenges.
 
 ***04-12-2022***: Solved CF268A, CF581A, CF732A, CF1352A, PE3.
